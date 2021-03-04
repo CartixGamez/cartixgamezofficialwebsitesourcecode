@@ -24,7 +24,7 @@
     <p>Sorry For The Messy Site And Bugs, I <strong>Will </strong>Fix It!</p>
     <a class="subscribe" href="https://g0.si/subscribetocartixgameznow" target="_blank">Click This To Subscribe Me On Youtube!</a>
     <h1 class="videos">VIDEOS</h1>
-    <p>Note: 
+    <p>Note:
     <em>Sorry If The Videos Doesn't Play</em>, If It Doesn't Play, You Can Click On The <strong>"Watch On Youtube"</strong> Button.
     <strong>Sorry, The Youtube Video Player Can't Fullscreen</strong>, You Can Toggle Full Screen In The "My YT Video Compilation".</p>
     <iframe src="https://www.youtube.com/embed/vyCtTHQfouQ"></iframe>
@@ -47,5 +47,6 @@
     <a href="https://www.youtube.com/watch?v=PRDiRjroKfw" target="_blank">Watch On Youtube</a>
     <p>More Videos Soon!</p>
     <a href="https://codecademy.com" target="_blank">Click <strong>This</strong> To Go To The Site That I Used To Learn Coding</a>
+    <a href="https://github.com/CartixGamez/cartixgamezofficialwebsitesourcecode.git" target="_blank">Click <strong>This </strong>To Go To The Site's Source Code (GITHUB)</a>
   </body>
 </html>

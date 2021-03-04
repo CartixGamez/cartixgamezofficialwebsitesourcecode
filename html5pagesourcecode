@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CartixGamez YT Videos Compilation (HTML5, BETA)</title>
+    <style>
+      h1 {
+        font-family: Arial;
+      }
+      p {
+        font-family: Arial;
+      }
+      .subscribe {
+        text-transform: capitalize
+      }
+      a {
+        font-family: Arial;
+      }
+      .videos {
+        color: red;
+    </style>
+  </head>
+  <body>
+    <h1>CartixGamez YT Videos Compilation (HTML5, BETA)</h1>
+    <p>Sorry For The Messy Site And Bugs, I <strong>Will </strong>Fix It!</p>
+    <a class="subscribe" href="https://g0.si/subscribetocartixgameznow" target="_blank">Click This To Subscribe Me On Youtube!</a>
+    <h1 class="videos">VIDEOS</h1>
+    <p>Note:
+    <em>Sorry If The Videos Doesn't Play</em>, If It Doesn't Play, You Can Click On The <strong>"Watch On Youtube"</strong> Button.
+    <strong>Sorry, The Youtube Video Player Can't Fullscreen</strong>, You Can Toggle Full Screen In The "My YT Video Compilation".</p>
+    <iframe src="https://www.youtube.com/embed/vyCtTHQfouQ"></iframe>
+    <a href="https://www.youtube.com/watch?v=vyCtTHQfouQ" target="_blank">Watch On Youtube</a>
+    <iframe src="https://www.youtube.com/embed/6xiXN22F2As"></iframe>
+    <a href="https://www.youtube.com/watch?v=6xiXN22F2As" target="_blank">Watch On Youtube</a>
+    <iframe src="https://www.youtube.com/embed/QM9O2DqROoE" controls></iframe>
+    <a href="https://www.youtube.com/watch?v=QM9O2DqROoE" target="_blank">Watch On Youtube</a>
+    <iframe src="https://www.youtube.com/embed/vaNjAOCJLQQ" controls></iframe>
+    <a href="https://www.youtube.com/watch?v=vaNjAOCJLQQ" target="_blank">Watch On Youtube</a>
+    <iframe src="https://www.youtube.com/embed/N4ON0ZFiZi0" controls></iframe>
+    <a href="https://www.youtube.com/watch?v=N4ON0ZFiZi0" target="_blank">Watch On Youtube</a>
+    <iframe src="https://www.youtube.com/embed/gcd7LCzbQwc" controls></iframe>
+    <a href="https://www.youtube.com/watch?v=gcd7LCzbQwc" target="_blank">Watch On Youtube</a>
+    <iframe src="https://www.youtube.com/embed/gcd7LCzbQwc" controls></iframe>
+    <a href="https://www.youtube.com/watch?v=gcd7LCzbQwc" target="_blank">Watch On Youtube</a>
+    <iframe src="https://www.youtube.com/embed/caKtRn2OUUw" controls></iframe>
+    <a href="https://www.youtube.com/watch?v=caKtRn2OUUw" target="_blank">Watch on Youtube</a>
+    <iframe src="https://www.youtube.com/embed/PRDiRjroKfw" controls></iframe>
+    <a href="https://www.youtube.com/watch?v=PRDiRjroKfw" target="_blank">Watch On Youtube</a>
+    <p>More Videos Soon!</p>
+    <a href="https://codecademy.com" target="_blank">Click <strong>This</strong> To Go To The Site That I Used To Learn Coding</a>
+  </body>
+</html>
